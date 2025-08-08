@@ -1,39 +1,53 @@
 # 📊 E-commerce Sales Dashboard – Power BI Project
 
-<img width="1112" height="249" alt="image" src="https://github.com/user-attachments/assets/38fa815a-c4a8-4374-8289-74f995d641fb" />
-
 # 📌 Project Overview
-This Power BI dashboard analyzes **E-commerce sales performance** to identify trends in revenue, profit, quantity sold, and customer behavior.  
-It provides insights into sales by **state, product category, payment modes, and customer segments**, helping businesses make data-driven decisions.
+This Power BI dashboard analyzes **e-commerce transaction data** to identify trends in sales, profit, and customer purchasing behavior.  
+It is designed to help businesses identify top-performing products, states, and payment methods, as well as track profit trends over time.
 
-**📂 Files in this Repository :**
-dashboard.pbix — Power BI Desktop file 
+---
 
-dashboard.png — Dashboard preview screenshot
+# 📸 Dashboard Preview
+![E-commerce Dashboard](dashboard.png)
 
-dataset source information -- excel.csv file
+---
 
-README.md — (this file)
+# 📈 Key Insights
+- **Total Sales:** 438K  
+- **Total Profit:** 37K  
+- **Total Quantity Sold:** 5,615  
+- **Average Order Value (AOV):** 121K  
+- **Top State by Sales:** Maharashtra (followed by Madhya Pradesh, Uttar Pradesh, Delhi)  
+- **Top Product Category by Quantity:** Clothing – **63%** of total quantity sold  
+- **Top Payment Mode:** Cash on Delivery (COD) – **44%** of orders  
+- **Top Sub-category by Profit:** Printers (highest), followed by Bookcases, Saree, Accessories, Tables  
+- **Monthly Profit Trend:** Fluctuations with mid-year and year-end dips
 
+---
 
-# 🛠 Tools & Skills Used
-- **Power BI Desktop** for data modeling & visualization
-- **Power Query** for data cleaning and transformation
-- **DAX** for calculated columns & measures
-- **Data Modeling:** Fact & Dimension tables with relationships
-- **Visualization Techniques:** KPI cards, bar charts, donut charts, interactive filters, slicers
+## 🛠 Tools & Skills Used
+- **Power BI Desktop** – Report building  
+- **Power Query** – Data cleaning & transformation  
+- **DAX** – Calculated columns & measures  
+- **Data Modeling** – Fact & dimension tables, relationships  
+- **Visualization Techniques** – KPI cards, bar charts, donut charts, interactive slicers
 
+---
 
-**📈 Key Insights:** 
-1.  **Total Sales:** 438K | **Total Profit:** 37K | **Total Quantity Sold:** 5615
-2. **AOV (Average Order Value):** 121K
-3. **Top State by Sales:** Maharashtra (followed by Madhya Pradesh, Uttar Pradesh, Delhi)
-4. **Top Product Category (by quantity):** Clothing — 63% of quantity sold
-5. **Top Payment Mode:** Cash on Delivery (COD) — 44% share
-6. **Top Sub‑Category by Profit:** Printers (highest), then Bookcases, Saree, Accessories, Tables
-7. **Monthly Profit Trend:** Strong months and mid‑year dips — profit shows fluctuations with notable declines around mid‑year and towards year‑end
+## 🗂 Dataset
+- **Source:** Included in this repository under the [`data/`](data) folder.
+- **Files:**
+  1. `Orders.csv` – Contains sales order details such as Order ID, Date, Customer, State, Category, Sub-Category, Quantity, Sales Amount, Profit, and Payment Mode.
+  2. `Details.csv` – Contains additional information such as product details, customer information, and related attributes.
 
+You can download these files directly from the [`data/`](data) folder or clone the repository to get them locally.
 
-# 📬 Contact
-If you have questions or feedback, connect with me on:
-**LinkedIn:** [https://www.linkedin.com/in/talak-siddiqui-271149276/]
+---
+
+## 📬 Contact
+If you have feedback or questions, feel free to connect with me:  
+- **LinkedIn:** [https://www.linkedin.com/in/talak-siddiqui-271149276/]  
+
+---
+
+**⭐ If you found this project interesting, consider giving the repo a star!**
+
