@@ -34,12 +34,12 @@ It is designed to help businesses identify top-performing products, states, and 
 ---
 
 ## 🗂 Dataset
-- **Source:** Included in this repository under the [`data/`](data) folder.
+- **Source:** Included in this repository under the [`data/`](  ) folder.
 - **Files:**
   1. `Orders.csv` – Contains sales order details such as Order ID, Date, Customer, State, Category, Sub-Category, Quantity, Sales Amount, Profit, and Payment Mode.
   2. `Details.csv` – Contains additional information such as product details, customer information, and related attributes.
 
-You can download these files directly from the [`data/`](data) folder or clone the repository to get them locally.
+You can download these files directly from the [`data/`](  ) folder or clone the repository to get them locally.
 
 ---
 
