@@ -6,6 +6,17 @@
 This Power BI dashboard analyzes **E-commerce sales performance** to identify trends in revenue, profit, quantity sold, and customer behavior.  
 It provides insights into sales by **state, product category, payment modes, and customer segments**, helping businesses make data-driven decisions.
 
+**📂 Files in this Repository :**
+dashboard.pbix — Power BI Desktop file (open in Power BI Desktop)
+
+dashboard.png — Dashboard preview screenshot
+
+insights.pdf — PDF export of the report (for quick viewing)
+
+dataset-info.md — Brief dataset description (or note about data privacy)
+
+README.md — (this file)
+
 # 🛠 Tools & Skills Used
 - **Power BI Desktop** for data modeling & visualization
 - **Power Query** for data cleaning and transformation
@@ -13,7 +24,8 @@ It provides insights into sales by **state, product category, payment modes, and
 - **Data Modeling:** Fact & Dimension tables with relationships
 - **Visualization Techniques:** KPI cards, bar charts, donut charts, interactive filters, slicers
 
-📈 Key Insights (from the dashboard)
+**📈 Key Insights:** (from the dashboard)
+
 1.  **Total Sales:** 438K | **Total Profit:** 37K | **Total Quantity Sold:** 5615
 2. **AOV (Average Order Value):** 121K
 3. **Top State by Sales:** Maharashtra (followed by Madhya Pradesh, Uttar Pradesh, Delhi)
