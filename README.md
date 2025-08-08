@@ -15,6 +15,7 @@ dataset source information -- excel.csv file
 
 README.md — (this file)
 
+
 # 🛠 Tools & Skills Used
 - **Power BI Desktop** for data modeling & visualization
 - **Power Query** for data cleaning and transformation
@@ -22,7 +23,8 @@ README.md — (this file)
 - **Data Modeling:** Fact & Dimension tables with relationships
 - **Visualization Techniques:** KPI cards, bar charts, donut charts, interactive filters, slicers
 
-**📈 Key Insights:** (from the dashboard)
+
+**📈 Key Insights:** 
 1.  **Total Sales:** 438K | **Total Profit:** 37K | **Total Quantity Sold:** 5615
 2. **AOV (Average Order Value):** 121K
 3. **Top State by Sales:** Maharashtra (followed by Madhya Pradesh, Uttar Pradesh, Delhi)
@@ -31,6 +33,7 @@ README.md — (this file)
 6. **Top Sub‑Category by Profit:** Printers (highest), then Bookcases, Saree, Accessories, Tables
 7. **Monthly Profit Trend:** Strong months and mid‑year dips — profit shows fluctuations with notable declines around mid‑year and towards year‑end
 
+
 # 📬 Contact
 If you have questions or feedback, connect with me on:
-- **LinkedIn:** [https://www.linkedin.com/in/talak-siddiqui-271149276/]
+**LinkedIn:** [https://www.linkedin.com/in/talak-siddiqui-271149276/]
