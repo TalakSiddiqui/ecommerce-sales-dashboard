@@ -1,6 +1,3 @@
-# ecommerce-sales-dashboard
-Interactive Power BI dashboard analyzing e-commerce sales
-
 # 📊 E-commerce Sales Dashboard – Power BI Project
 
 <img width="1112" height="249" alt="image" src="https://github.com/user-attachments/assets/38fa815a-c4a8-4374-8289-74f995d641fb" />
