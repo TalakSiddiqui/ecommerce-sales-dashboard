@@ -7,7 +7,7 @@ It is designed to help businesses identify top-performing products, states, and 
 ---
 
 # 📸 Dashboard Preview
-![E-commerce Dashboard](dashboard.png)
+<img width="1112" height="249" alt="image" src="https://github.com/user-attachments/assets/34769632-dd75-4cc8-909c-0f1b6eb0fbbb" />
 
 ---
 
